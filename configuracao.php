@@ -1,3 +1,3 @@
 <?php
-echo'aquivo de configuracao do sistema';
+//echo'aquivo de configuracao do sistema';
 
